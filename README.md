@@ -6,11 +6,11 @@ BASIC-86 Compiler runtime library.
 <p align="center">
 <img
 src="https://archive.org/download/paterson_listings/images/paterson_photo.jpg"
-width="50%" align="center"> [https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/?ref=itsfoss.com]
+width="50%" align="center"> 
 </p>
 
 The DOS-related portions have been transcribed and turned into compilable
-source code.
+source code. https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/?ref=itsfoss.com
 
 ## Downloads and Layout
 - [`1_transcription`](./1_transcription/) ([download](https://github.com/DOS-History/Paterson-Listings/releases/latest/download/paterson_listings_transcription.zip)) -
