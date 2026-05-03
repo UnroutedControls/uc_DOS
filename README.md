@@ -6,7 +6,7 @@ BASIC-86 Compiler runtime library.
 <p align="center">
 <img
 src="https://archive.org/download/paterson_listings/images/paterson_photo.jpg"
-width="50%" align="center">
+width="50%" align="center"> [https://opensource.microsoft.com/blog/2026/04/28/continuing-the-story-of-early-dos-development/?ref=itsfoss.com]
 </p>
 
 The DOS-related portions have been transcribed and turned into compilable
